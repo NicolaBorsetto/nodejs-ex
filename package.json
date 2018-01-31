@@ -6,8 +6,7 @@
     "node": "*",
     "npm": "*"
   },
-  "scripts": {
-    "prepublish ": "npm install",
+  "scripts": {    
     "start": "node server.js"
   },
   "repository": {
