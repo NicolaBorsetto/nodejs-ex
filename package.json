@@ -15,7 +15,7 @@
     "url": "http://github.com/openshift/nodejs-ex.git"
   },
   "author": "Nicola Borsetto",
-  "license": "CC-BY-1.0",
+  "license": "CC-BY-1.0", 
   "dependencies": {
     "accepts": {
       "integrity": "sha1-hiRnWMfdbSGmR0/whKR0DsBesh8=",
